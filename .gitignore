@@ -183,4 +183,3 @@ bower_components
 ### Laravel ###
 /bootstrap/compiled.php
 .env.*.php
-.env.*
