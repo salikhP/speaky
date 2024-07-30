@@ -10,7 +10,7 @@ services:
         volumes:
             - .:/var/www/html
         ports:
-            - "8080:80"
+            - "8082:80"
         environment:
             - APP_ENV=local
             - APP_DEBUG=true
